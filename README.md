@@ -29,4 +29,4 @@ Made by love and creativity, includes hard combination to pass it. Requires high
 | 2 | D3, D1, D4, D2 | LEDRD254W57D500H1070 | 4 | L08R5000Q1 | [LitteSon (Local Shop)](https://little-son.tn/accueil/761-123-diode-led-5mm.html#/8-couleur-blanc) | $0.12 |
 | 3 | R1, R4, R3, R2 | R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal | 4 | R | [LitteSon (Local Shop)](https://little-son.tn/accueil/876-resistance-220ohm-14w.html) | $0.14 |
 | 4 | U1 | XIAO-Generic-Hybrid-14P-2.54-21X17.8MM | 1 | MODULE-SEEEDUINO-XIAO | [AliExpress](https://ar.aliexpress.com/item/1005004459618789.html) | $4.85 |
-| 5 | BZ1 | Buzzer_12x9.5RM7.6 | 1 | Buzzer | [Little Son](https://little-son.tn/accueil/423-buzzer-passif-5v.html) | $0.35 |
+| 5 | BZ1 | Buzzer_12x9.5RM7.6 | 1 | Buzzer | [LittleSon (Local Shop)](https://little-son.tn/accueil/423-buzzer-passif-5v.html) | $0.35 |
