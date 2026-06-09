@@ -20,6 +20,9 @@ Made by love and creativity, includes hard combination to pass it. Requires high
 ## Schematics
 <img width="793" height="691" alt="image" src="https://github.com/user-attachments/assets/08157e8f-5f2f-4b65-bfde-d76492d7381e" />
 
+## PCB Design
+<img width="786" height="630" alt="image" src="https://github.com/user-attachments/assets/edb2c007-1d3d-42df-bf64-e31c0f506b2d" />
+
 ---
 
 # BOM :
