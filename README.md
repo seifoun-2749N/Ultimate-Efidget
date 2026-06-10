@@ -5,8 +5,19 @@
 # Overview :
 
 A custom Efidget made by following the PATHFINDER efidget starter project on Stasis HackClub YSWS event.
-
 Made by love and creativity, includes hard combination to pass it. Requires high IQ level (just kidding)
+
+I chose this project since It's fun to make and be creative so I wanted to give it a shot then testing my friends. Also it feels amazing to see people play with something you made and get stuck sometimes until you help them. Since It's not the first PCB I made so I already know how to make It but by making this DIY game I got more experience dealing with PCB and KiCad pecisely and got better also in making beautiful PCBs.
+
+It comes with 4 LEDs, 4 switches and a buzzer. Your goal is to find out how can you make the 4 leds work at the same time.
+
+### Here is how it works (Don't read this if you don't want to know the solution) :
+- Button 1 activates the LED3 if you tapped on the button n times such that n is an even number. If n was an odd number, that means that LED3 and LED4 will be inactivated.
+- Button 2 activated LED1 and a timer of 10 seconds (with a buzzer signal) : To activate LED2 you should press button3 3 times before the timer ends or the LEDs will be inactivated
+- Button 4 simply turn LED4 on and off by pressing it, nothing special (It's so easy that It could trick the player)
+
+The buzzer will play a quick win song if the players wins
+
 
 ---
 
